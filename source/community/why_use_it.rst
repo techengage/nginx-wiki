@@ -169,6 +169,12 @@ NGINX is more than 50% faster than Apache.
 
 -- `WPArena <https://wparena.com/>`__
 
+NGINX is one of the best options to opt for TechEngage after testing it thoroughly and
+comparing it via APACHE. In simple terms, it's way faster than APACHE and we will never
+look back again. It's not only fast but can handle 100% more requests than APACHE.
+
+-- `TechEngage <https://techengage.com/>`__
+
 .. _why_use_it.notes:
 
 Notes
